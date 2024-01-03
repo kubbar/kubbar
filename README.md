@@ -1,18 +1,24 @@
-<article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto"> 
+<p align="center"> 
   Visitor Count: <br> <b><i>(from 15/11/2015 Onwards)<b><i> <br><br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7cb882d78389ed186edccbd4750b531e0c59a2cef6ba5b099dc7bc3f3c6ac547/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4d757374617264436865662f636f756e742e737667"><img src="https://camo.githubusercontent.com/7cb882d78389ed186edccbd4750b531e0c59a2cef6ba5b099dc7bc3f3c6ac547/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4d757374617264436865662f636f756e742e737667" style="width: 180px; max-width: 100%;" data-canonical-src="https://profile-counter.glitch.me/MustardChef/count.svg"></a>
-</i></b></i></b></p><b><i><b><i>
-<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst=""><picture><img align="left" src="https://i.gyazo.com/267936a280c987950405c28e73463ab3.png" width="20%" height="20%" style="visibility:visible;max-width:100%;"></picture></themed-picture></p>
-<h1 tabindex="-1" dir="auto"><a id="user-content-mustardchefs-github-profile" class="anchor" aria-hidden="true" tabindex="-1" href="#mustardchefs-github-profile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>kubbar's Github Profile</h1>
-<h4 tabindex="-1" dir="auto"><a id="user-content-self-proclaimed-programmer" class="anchor" aria-hidden="true" tabindex="-1" href="#self-proclaimed-programmer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Self-Proclaimed Programmer</h4>
-<hr>
- <themed-picture data-catalyst-inline="true" data-catalyst=""><picture><img style="visibility:visible;max-width:100%;" src="https://camo.githubusercontent.com/877427a45db9858253acc1c379c7d4a3d7bd2476edc722d6749d0a3f54db5071/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e64726f696473747564696f2c626173682c6c696e75782c6a732c6769746875622c6a6176612c6b6f746c696e2c70792c63732c6370702c6373732c68746d6c2c676974687562616374696f6e732c72267065726c696e653d37" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=androidstudio,bash,linux,js,github,java,kotlin,py,cs,cpp,css,html,githubactions,r&amp;perline=7"></picture></themed-picture> 
-</a>
-<br>
-<br>
-<themed-picture data-catalyst-inline="true" data-catalyst=""><picture><img src="https://camo.githubusercontent.com/bb6d97b340a5cc49a12bd32441f0482088e19dd66d775b52812ba5081c93267f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d757374617264636865662673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d7261646963616c26686964655f626f726465723d74727565" width="53%" height="53%/" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mustardchef&amp;show_icons=true&amp;include_all_commits=true&amp;theme=radical&amp;hide_border=true" style="visibility:visible;max-width:100%;"></picture></themed-picture><themed-picture data-catalyst-inline="true" data-catalyst=""><picture><img src="https://camo.githubusercontent.com/81ef4e6490f925f5a51d8ac5b106bd4a53f9daa9202523c3e4c5de104faf8194/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d75737461726443686566266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d74727565" width="40.5%" height="40.5%/" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustardChef&amp;langs_count=8&amp;layout=compact&amp;theme=radical&amp;hide_border=true" style="visibility:visible;max-width:100%;"></picture></themed-picture>
-<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst=""><picture><img src="https://camo.githubusercontent.com/9df729a124f02023ddced34e0dd4139443521764aa7024197723d7335ff49de5/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4d75737461726443686566267468656d653d7265646963616c26686964655f626f726465723d74727565" style="visibility:visible;max-width:100%;" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=MustardChef&amp;theme=redical&amp;hide_border=true"></picture></themed-picture></p>
-<p align="center" dir="auto">
-<themed-picture data-catalyst-inline="true" data-catalyst=""><picture><img src="https://camo.githubusercontent.com/8eeee6ac687fa0a6a34b4b06c4ede1568823997f6f5c4d91d95a7067a4795076/68747470733a2f2f6d6574726963732e6c65636f712e696f2f4d757374617264436865663f74656d706c6174653d636c617373696326626173653d6865616465722532432532306163746976697479253243253230636f6d6d756e6974792532432532307265706f7369746f726965732532432532306d6574616461746126626173652e696e64657074683d66616c736526626173652e6869726561626c653d66616c736526626173652e736b69703d66616c736526636f6e6669672e74696d657a6f6e653d4575726f70652532464c6f6e646f6e" data-canonical-src="https://metrics.lecoq.io/MustardChef?template=classic&amp;base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&amp;base.indepth=false&amp;base.hireable=false&amp;base.skip=false&amp;config.timezone=Europe%2FLondon"></picture></themed-picture>     
+  <img src="https://profile-counter.glitch.me/MustardChef/count.svg" style="width: 180px;"/>
 </p>
-</i></b></i></b></article>
+
+<picture><img align="left" src="https://i.gyazo.com/267936a280c987950405c28e73463ab3.png" width=20% height=20%></picture>
+
+
+# kubbar's Github Profile 
+
+#### Self-Proclaimed Programmer
+
+---
+ <picture><img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,js,github,java,kotlin,py,cs,cpp,css,html,githubactions,r&perline=7"alt="My Skills"/></picture> 
+</a>
+<br/>
+<br/>
+<picture><img src="https://github-readme-stats.vercel.app/api?username=mustardchef&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustardChef&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture>
+
+<picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=MustardChef&theme=redical&hide_border=true" style="width: 890px;"/></picture>
+
+<p align="center">
+<picture><img src="https://metrics.lecoq.io/MustardChef?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon" /></picture>     
+</p>
