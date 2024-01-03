@@ -11,6 +11,7 @@
 #### Self-Proclaimed Programmer
 
 ---
+<a href="">
  <picture><img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,js,github,java,kotlin,py,cs,cpp,css,html,githubactions,r&perline=7"alt="My Skills"/></picture> 
 </a>
 <br/>
